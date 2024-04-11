@@ -41,7 +41,7 @@ const ContentContainer = styled.div`
 const Title = styled.h2`
   font-size: 2.5rem;
   font-weight: bold;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.5rek
 `;
 
 const Description = styled.p`

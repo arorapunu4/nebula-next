@@ -5,6 +5,7 @@ import HowItWorks from './components/howItWorks';
 import HowWeHire from "./components/usp";
 import OurClients from "./components/ourClients";
 import Footer from "./components/footer";
+import React from "react";
 
 export default function Home() {
   return (
